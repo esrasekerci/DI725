@@ -2,7 +2,7 @@
 
 This repository contains my assignments for the DI725 course at METU Graduate School of Informatics.
 
-## 📚 Assignments
+## Assignments
 
 - [Assignment 1 - Sentiment Analysis with nanoGPT and GPT-2](./assignment_1)
 - [Assignment 2 - Object Detection](./assignment_2)
